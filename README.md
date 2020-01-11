@@ -16,10 +16,9 @@ To transpile the code and create new directory with babel use:
 
 **DevDependencies:**
 
- * Babel: 
+ 
  *   @babel/cli
  * @babel/core
- * @babel/node
  * @babel/preset-env 
 *   Nodemon 
 
